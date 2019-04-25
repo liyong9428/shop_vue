@@ -39,7 +39,7 @@ input, select,textarea {
    border: 0;
    outline: none;
    border-radius: 0;
-   -webkit-appearance: none;
+   /* -webkit-appearance: none; */
 }
 
 ol,ul,li {
